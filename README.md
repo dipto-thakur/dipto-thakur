@@ -1,31 +1,195 @@
 <h1 align="center">Hi 👋, I'm Dipto Thakur</h1>
-<h3 align="center">Developer • AI Automation Builder • Educator • Digital Creator</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dipto-thakur" alt="dipto-thakur" /></a> </p>
+<h3 align="center">
+Full Stack Developer • AI Engineer • Automation Builder • Open Source Contributor
+</h3>
 
-<p align="left"> <a href="https://twitter.com/dipto_thakur" target="blank"><img src="https://img.shields.io/twitter/follow/dipto_thakur?logo=twitter&style=for-the-badge" alt="dipto_thakur" /></a> </p>
+<p align="center">
+Building AI-powered products, modern web applications, developer tools, and scalable automation systems.
+</p>
 
-- 📫 How to reach me **dkt.officials@gmail.com**
+<p align="center">
+<a href="https://github.com/dipto-thakur">
+<img src="https://komarev.com/ghpvc/?username=dipto-thakur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+</p>
 
-### Blogs posts
+---
+
+## 🚀 About Me
+
+I'm a **Full Stack Developer** passionate about creating high-performance digital experiences using modern web technologies and Artificial Intelligence.
+
+I specialize in building:
+
+- 🤖 AI-powered applications
+- ⚡ Automation systems & workflows
+- 🌐 Modern full-stack web apps
+- 🎨 Premium UI/UX experiences
+- 📈 SEO-focused websites
+- 🛠 Developer tools & open-source projects
+
+Currently exploring the future of AI, LLMs, intelligent automation, and developer productivity.
+
+---
+
+## 🌱 Current Focus
+
+- Building AI-first SaaS products
+- Developing scalable Next.js applications
+- Exploring AI Agents & LLM workflows
+- Writing technical articles
+- Contributing to Open Source
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma,framer" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql,firebase" />
+</p>
+
+### AI • Cloud • DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,gcp,vercel" />
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🎨 Pixel Canvas | Interactive pixel animation engine for modern web experiences |
+| 💼 Portfolio v3 | Premium portfolio built with Next.js, Tailwind & Motion |
+| 🤖 AI Automation | Intelligent workflows powered by LLMs |
+| 🌐 Business Websites | Fast, SEO-first websites for startups and businesses |
+
+> More projects → https://github.com/dipto-thakur?tab=repositories
+
+---
+
+## ✍ Latest Articles
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/diptothakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="diptothakur" height="30" width="40" /></a>
-<a href="https://twitter.com/dipto_thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipto_thakur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/diptothakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diptothakur" height="30" width="40" /></a>
-<a href="https://fb.com/dipto thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dipto thakur" height="30" width="40" /></a>
-<a href="https://instagram.com/diptoism" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="diptoism" height="30" width="40" /></a>
-<a href="https://medium.com/@dkt.officials" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dkt.officials" height="30" width="40" /></a>
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipto-thakur&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-thakur&theme=transparent&hide_border=true"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dipto-thakur&show_icons=true&locale=en&layout=compact" alt="dipto-thakur" /></p>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto-thakur&layout=compact&theme=transparent&hide_border=true"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dipto-thakur&show_icons=true&locale=en" alt="dipto-thakur" /></p>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-thakur&" alt="dipto-thakur" /></p>
+---
+
+## 📝 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/diptothakur">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://medium.com/@dkt.officials">
+<img src="https://cdn.simpleicons.org/medium" height="45"/>
+</a>
+
+<a href="https://x.com/dipto_thakur">
+<img src="https://cdn.simpleicons.org/x" height="45"/>
+</a>
+
+<a href="https://instagram.com/diptoism">
+<img src="https://cdn.simpleicons.org/instagram" height="45"/>
+</a>
+
+<a href="https://dev.to/diptothakur">
+<img src="https://cdn.simpleicons.org/devdotto" height="45"/>
+</a>
+
+</p>
+
+📧 **Email:** dkt.officials@gmail.com
+
+---
+
+## 💡 Interests
+
+- Artificial Intelligence
+- Large Language Models (LLMs)
+- Full Stack Development
+- Automation Engineering
+- Developer Experience (DX)
+- UI Engineering
+- Performance Optimization
+- Search Engine Optimization (SEO)
+- Open Source
+- Technical Writing
+
+---
+
+## 📚 Latest Medium Articles
+
+- Geo Is No Longer Optional: What Google Trends Taught Me About the Future of Search
+- More articles are automatically updated via GitHub Actions.
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider starring my repositories.
+
+</div>
+
+<!--
+SEO Keywords
+
+Full Stack Developer
+AI Engineer
+Artificial Intelligence
+Next.js
+React
+TypeScript
+JavaScript
+Node.js
+Python
+Automation
+Open Source
+Portfolio
+Software Engineer
+Frontend Developer
+Backend Developer
+Web Developer
+Technical Writer
+Developer Tools
+SEO
+LLM
+AI Applications
+-->
