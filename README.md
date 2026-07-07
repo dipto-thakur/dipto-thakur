@@ -1,195 +1,161 @@
-<h1 align="center">Hi 👋, I'm Dipto Thakur</h1>
+<div align="center">
 
-<h3 align="center">
-Full Stack Developer • AI Engineer • Automation Builder • Open Source Contributor
-</h3>
+# Dipto Thakur
+
+**Full-stack developer building editorial, motion-driven web products.**
+
+Next.js · TypeScript · React · Tailwind · Framer Motion
+
+[Portfolio](https://diptothakur.dev) · [LinkedIn](https://www.linkedin.com/in/diptothakur) · [GitHub](https://github.com/dipto-thakur) · [Email](mailto:dkt.officials@gmail.com)
+
+</div>
+
+---
+
+## About
+
+I build production web apps end to end architecture, UI, and the details in between. Most of my work sits at the intersection of frontend craftsmanship and product delivery: full-stack apps for local businesses, a canvas-based animation system for my own portfolio, and internal tools shipped under real deadlines.
+
+I favor minimal, editorial interfaces over dashboard defaults — informed by Apple, Vercel and I care about the parts users don't see: accessible markup, typed data contracts, and code that reads clean a year later.
+
+---
+
+## Current Focus
+
+- Building a personal portfolio with a generator-based canvas system (`PixelCanvas`) driven by live GitHub contribution data
+- Shipping a typed blog system using discriminated unions for content models
+- Exploring motion systems with Framer Motion and GSAP for scroll-based storytelling
+- Available for full-stack and frontend engineering work
+
+---
+
+## Tech Stack
+
+**Languages**
+TypeScript · JavaScript · Python
+
+**Frontend**
+React · Next.js (App Router) · Tailwind CSS · Framer Motion · GSAP · shadcn/ui
+
+**Backend**
+Node.js · NestJS · Express
+
+**Databases**
+PostgreSQL · MongoDB · Supabase · Dexie
+
+**Tooling**
+Zustand · Puppeteer · Chart.js · Vite
+
+**Cloud**
+Vercel · AWS · Firebase
+
+---
+
+## Selected Projects
+
+<details>
+<summary><strong>Personal Portfolio — PixelCanvas Engine</strong></summary>
+
+| Area | Details |
+|---|---|
+| Purpose | Editorial personal site with a canvas-based visual identity |
+| Stack | Next.js, TypeScript, Tailwind CSS |
+| Highlights | Generator-based `PixelCanvas` rendering system driven by live GitHub contribution heatmap data; isomorphic data layer shared between server and client |
+| Challenges | Resolved a server/client data contract mismatch by unifying fetch logic into a single isomorphic module; a parallel simulation subsystem was built, evaluated, then deliberately reverted to keep the original rendering pipeline stable |
+| Repository | private |
+| Live Demo | — |
+
+Rebuilt the contribution-graph renderer around a shared data module after diagnosing a divergence between server-fetched and client-fetched GitHub data. Kept the simulation branch dormant rather than merging it, prioritizing a stable render path over unfinished complexity.
+
+</details>
+
+<details>
+<summary><strong>ForgeCV — AI CV Builder</strong></summary>
+
+| Area | Details |
+|---|---|
+| Purpose | CV builder with AI-assisted content generation and job-description matching |
+| Stack | Next.js, Supabase, Zustand, Puppeteer |
+| Highlights | Multi-model AI routing via OpenRouter with fallback chains; PDF export pipeline; diff viewer for AI-suggested edits |
+| Challenges | Resolved TypeScript build mismatches, a `Set` iteration bug, and rate-limit failures in production by adding a fallback model chain |
+| Repository | private |
+| Live Demo | forgecv.app |
+
+Routes CV generation requests across multiple AI models with automatic fallback when a provider is rate-limited, keeping the app usable under real traffic instead of failing silently.
+
+</details>
+
+<details>
+<summary><strong>Habit Impact Tracker</strong></summary>
+
+| Area | Details |
+|---|---|
+| Purpose | Addiction/habit recovery tracker with AI-generated insights |
+| Stack | NestJS, Handlebars, Tailwind, Chart.js, OpenRouter |
+| Highlights | 16 habit types, cached AI insights, dark/light theming, vertical recovery timeline UI |
+| Challenges | Iterated through nine versions to balance insight quality against API cost via response caching |
+| Repository | private |
+| Live Demo | — |
+
+</details>
+
+<details>
+<summary><strong>QR Ordering App — Kolkata Café</strong></summary>
+
+| Area | Details |
+|---|---|
+| Purpose | QR-based table ordering system for a café client |
+| Stack | Next.js, localStorage cart |
+| Highlights | WhatsApp order dispatch, no backend required for order handoff |
+| Challenges | Kept the stack deliberately lightweight to match the client's operational scale |
+| Repository | private |
+| Live Demo | — |
+
+</details>
+
+<details>
+<summary><strong>The Calcutta Fitness Studio</strong></summary>
+
+| Area | Details |
+|---|---|
+| Purpose | Marketing site for a fitness studio client |
+| Stack | Next.js, Framer Motion, Swiper.js |
+| Highlights | Dark aesthetic with red accent, motion-driven section transitions |
+| Repository | private |
+| Live Demo | — |
+
+</details>
+
+More projects → [github.com/dipto-thakur](https://github.com/dipto-thakur?tab=repositories)
+
+---
+
+## Writing
+
+Technical notes on search, SEO, and engineering practice, published on Medium.
+
+**Geo Is No Longer Optional: What Google Trends Taught Me About the Future of Search**
+Medium · [medium.com/@dkt.officials](https://medium.com/@dkt.officials)
+
+---
+
+## GitHub Analytics
 
 <p align="center">
-Building AI-powered products, modern web applications, developer tools, and scalable automation systems.
-</p>
-
-<p align="center">
-<a href="https://github.com/dipto-thakur">
-<img src="https://komarev.com/ghpvc/?username=dipto-thakur&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dipto-thakur&show_icons=true&theme=transparent&hide_border=true" />
+<img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto-thakur&layout=compact&theme=transparent&hide_border=true" />
 </p>
 
 ---
 
-## 🚀 About Me
+## Contact
 
-I'm a **Full Stack Developer** passionate about creating high-performance digital experiences using modern web technologies and Artificial Intelligence.
-
-I specialize in building:
-
-- 🤖 AI-powered applications
-- ⚡ Automation systems & workflows
-- 🌐 Modern full-stack web apps
-- 🎨 Premium UI/UX experiences
-- 📈 SEO-focused websites
-- 🛠 Developer tools & open-source projects
-
-Currently exploring the future of AI, LLMs, intelligent automation, and developer productivity.
-
----
-
-## 🌱 Current Focus
-
-- Building AI-first SaaS products
-- Developing scalable Next.js applications
-- Exploring AI Agents & LLM workflows
-- Writing technical articles
-- Contributing to Open Source
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,figma,framer" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,mongodb,postgres,mysql,firebase" />
-</p>
-
-### AI • Cloud • DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,gcp,vercel" />
-</p>
-
----
-
-## ⭐ Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| 🎨 Pixel Canvas | Interactive pixel animation engine for modern web experiences |
-| 💼 Portfolio v3 | Premium portfolio built with Next.js, Tailwind & Motion |
-| 🤖 AI Automation | Intelligent workflows powered by LLMs |
-| 🌐 Business Websites | Fast, SEO-first websites for startups and businesses |
-
-> More projects → https://github.com/dipto-thakur?tab=repositories
-
----
-
-## ✍ Latest Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dipto-thakur&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dipto-thakur&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipto-thakur&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-## 📝 Latest Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/diptothakur">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://medium.com/@dkt.officials">
-<img src="https://cdn.simpleicons.org/medium" height="45"/>
-</a>
-
-<a href="https://x.com/dipto_thakur">
-<img src="https://cdn.simpleicons.org/x" height="45"/>
-</a>
-
-<a href="https://instagram.com/diptoism">
-<img src="https://cdn.simpleicons.org/instagram" height="45"/>
-</a>
-
-<a href="https://dev.to/diptothakur">
-<img src="https://cdn.simpleicons.org/devdotto" height="45"/>
-</a>
-
-</p>
-
-📧 **Email:** dkt.officials@gmail.com
-
----
-
-## 💡 Interests
-
-- Artificial Intelligence
-- Large Language Models (LLMs)
-- Full Stack Development
-- Automation Engineering
-- Developer Experience (DX)
-- UI Engineering
-- Performance Optimization
-- Search Engine Optimization (SEO)
-- Open Source
-- Technical Writing
-
----
-
-## 📚 Latest Medium Articles
-
-- Geo Is No Longer Optional: What Google Trends Taught Me About the Future of Search
-- More articles are automatically updated via GitHub Actions.
+[Portfolio](https://diptothakur.dev) · [LinkedIn](https://www.linkedin.com/in/diptothakur) · [Email](mailto:dkt.officials@gmail.com) · [GitHub](https://github.com/dipto-thakur)
 
 ---
 
 <div align="center">
 
-### ⭐ If you like my work, consider starring my repositories.
+Built one deliberate decision at a time.
 
 </div>
-
-<!--
-SEO Keywords
-
-Full Stack Developer
-AI Engineer
-Artificial Intelligence
-Next.js
-React
-TypeScript
-JavaScript
-Node.js
-Python
-Automation
-Open Source
-Portfolio
-Software Engineer
-Frontend Developer
-Backend Developer
-Web Developer
-Technical Writer
-Developer Tools
-SEO
-LLM
-AI Applications
--->
