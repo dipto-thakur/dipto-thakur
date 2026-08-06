@@ -46,20 +46,24 @@ I build production web apps end to end, architecture, UI, and everything between
 
 ## Selected Projects
 
-- **Portfolio** | [Live](https://diptothakur.vercel.app/) — editorial personal site, canvas-based visual identity, motion-driven sections.
-- **noirnoteAI** | [Repo](https://github.com/dipto-thakur/NotaBackup) | [Live](https://noirnote.vercel.app/) — AI notepad with multi-model routing, smart-format actions.
-- **GitPad** | [Repo](https://github.com/dipto-thakur/gitnote) | [Live](https://gitnote.vercel.app/) — browse a GitHub repo file, edit it, commit. OAuth-based, portable editor.
-- **ForgeCV** | [Repo](https://github.com/dipto-thakur/CVForge) | [Live](https://forgecv-nine.vercel.app/) — AI CV builder, multi-model routing (OpenRouter), PDF export, JD matching.
-- **Habitrisk** | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | [Live](https://habitrisk.vercel.app/) — NestJS habit/recovery tracker, 16 habit types, AI insights, quick share.
-- **ReviewbuzzAI** | [Repo](https://github.com/dipto-thakur/reviewlanding) | [Live](https://reviewbuzz.vercel.app/) — AI review automation for businesses, SEO optimization.
+| Project | Repo | Description |
+|:--|:--|:--|
+| [**Portfolio**](https://diptothakur.vercel.app/) | — | editorial personal site, canvas-based visual identity, motion-driven sections |
+| [**noirnoteAI**](https://noirnote.vercel.app/) | [Repo](https://github.com/dipto-thakur/NotaBackup) | AI notepad with multi-model routing, smart-format actions |
+| [**GitPad**](https://gitnote.vercel.app/) | [Repo](https://github.com/dipto-thakur/gitnote) | Browse a GitHub repo file, edit it, commit - OAuth-based, portable editor |
+| [**ForgeCV**](https://forgecv-nine.vercel.app/) | [Repo](https://github.com/dipto-thakur/CVForge) | AI CV builder, multi-model routing (OpenRouter), PDF export, JD matching |
+| [**Habitrisk**](https://habitrisk.vercel.app/) | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | NestJS habit/recovery tracker, 16 habit types, AI insights, quick share |
+| [**ReviewbuzzAI**](https://reviewbuzz.vercel.app/) | [Repo](https://github.com/dipto-thakur/reviewlanding) | AI review automation for businesses, SEO optimization |
 
 More projects → [dipto-thakur/repositories](https://github.com/dipto-thakur?tab=repositories)
 
 ## Resources
 
-- [College-Assignments](https://github.com/dipto-thakur/College-Assignments) — semester-wise academic assignments, lab work, and mini projects; structured coursework archive.
-- [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) — UI component libraries, animation tools, icon, 3D/WebGL libraries, design inspiration.
-- [web-dev-from-zero](https://github.com/dipto-thakur/web-dev-from-zero) — practice lessons for HTML, CSS, JS with implementation.
+| Repo | Description |
+|:--|:--|
+| [**College-Assignments**](https://github.com/dipto-thakur/College-Assignments) | academic assignments, lab work, mini projects - semester-wise coursework archive |
+| [**Web_devlopment_resources**](https://github.com/dipto-thakur/Web_devlopment_resources) | curated UI libraries, animation tools, icon sets, 3D/WebGL resources, design inspiration |
+| [**web-dev-from-zero**](https://github.com/dipto-thakur/web-dev-from-zero) | beginner HTML/CSS/JS lessons with hands-on implementation |
 
 ## GitHub Analytics
 
