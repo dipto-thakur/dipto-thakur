@@ -20,9 +20,7 @@
 
 ## About
 
-I build production web apps end to end — architecture, UI, and everything between. My work sits at the intersection of frontend craftsmanship and product delivery: full-stack apps for local businesses, a canvas-based animation engine for my own portfolio, and internal tools shipped under real deadlines.
-
-I favor minimal, editorial interfaces over dashboard defaults, and I care about the parts users don't see — accessible markup, typed data contracts, code that reads clean a year later.
+I build production web apps end to end, architecture, UI, and everything between which is fast, accessible, and thoughtfully engineered web applications with a focus on performance, usability, and long-term maintainability.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
 
@@ -43,15 +41,6 @@ I favor minimal, editorial interfaces over dashboard defaults, and I care about 
 <img src="https://skillicons.dev/icons?i=python,docker,git,github,aws,gcp,vercel,figma" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
-
-## Current Focus
-
-- Building a personal portfolio with a generator-based canvas system (`PixelCanvas`) driven by live GitHub contribution data
-- Shipping a typed blog system using discriminated unions for content models
-- Exploring motion systems with Framer Motion and GSAP for scroll-based storytelling
-- Available for full-stack and frontend engineering work
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
 
@@ -95,8 +84,6 @@ More projects → <a href="https://github.com/dipto-thakur?tab=repositories">git
 **Contribution Snake**
 
 <img src="https://raw.githubusercontent.com/dipto-thakur/dipto-thakur/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>generated via a scheduled GitHub Action — <a href="https://github.com/Platane/snk">setup: Platane/snk</a></sub>
 
 </div>
 
