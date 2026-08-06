@@ -18,9 +18,7 @@
 
 ## About
 
-I build production web apps end to end, architecture, UI, and everything between which is fast, accessible, and thoughtfully engineered web applications with a focus on performance, usability, and long-term maintainability.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
+I build production web apps end to end, architecture, UI, and everything between - with a focus on performance, usability, and long-term maintainability.
 
 ## Tech Stack
 
@@ -42,25 +40,20 @@ I build production web apps end to end, architecture, UI, and everything between
 
 ## Selected Projects
 
-- **Portfolio** | [Live](https://diptothakur.vercel.app/)
-- **noirnoteAI** | [Repo](https://github.com/dipto-thakur/NotaBackup) | [Live](https://noirnote.vercel.app/) : notepad with multi-model routing AI, formats for smart actions.
-- **GitPad** | [Repo](https://github.com/dipto-thakur/gitnote) | [Live](https://gitnote.vercel.app/) : browse GitHub repo file, edit it, commit. OAuth-based, portable editor.
-- **ForgeCV** | [Repo](https://github.com/dipto-thakur/CVForge) | [Live](https://forgecv-nine.vercel.app/) : AI CV builder, multi-model routing (OpenRouter), PDF export, JD matching.
-- **Habitrisk** | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | [Live](https://habitrisk.vercel.app/) : NestJS habit/recovery tracker, 16 habit types, AI insights, Quick share.
-- **ReviewbuzzAI** | [Repo](https://github.com/dipto-thakur/reviewlanding) | [Live](https://reviewbuzz.vercel.app/) : AI Review Automation for Businesses for SEO Optimization.
+- **Portfolio** | [Live](https://diptothakur.vercel.app/) — editorial personal site, canvas-based visual identity, motion-driven sections.
+- **noirnoteAI** | [Repo](https://github.com/dipto-thakur/NotaBackup) | [Live](https://noirnote.vercel.app/) — AI notepad with multi-model routing, smart-format actions.
+- **GitPad** | [Repo](https://github.com/dipto-thakur/gitnote) | [Live](https://gitnote.vercel.app/) — browse a GitHub repo file, edit it, commit. OAuth-based, portable editor.
+- **ForgeCV** | [Repo](https://github.com/dipto-thakur/CVForge) | [Live](https://forgecv-nine.vercel.app/) — AI CV builder, multi-model routing (OpenRouter), PDF export, JD matching.
+- **Habitrisk** | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | [Live](https://habitrisk.vercel.app/) — NestJS habit/recovery tracker, 16 habit types, AI insights, quick share.
+- **ReviewbuzzAI** | [Repo](https://github.com/dipto-thakur/reviewlanding) | [Live](https://reviewbuzz.vercel.app/) — AI review automation for businesses, SEO optimization.
 
-<div align="left">
-
-More projects → <a href="https://github.com/dipto-thakur?tab=repositories">github.com/dipto-thakur</a>
-
-</div>
+More projects → [github.com/dipto-thakur/repositories](https://github.com/dipto-thakur?tab=repositories)
 
 ## Resources
 
-- [College-Assignments](https://github.com/dipto-thakur/College-Assignments) - semester-wise academic assignments, lab work, and mini projects, serves as a structured archive of coursework.
-- [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) - UI component libraries, animation tools, icon sets, 3D/WebGL libraries, color palettes, and design inspiration.
-- [web-dev-from-zero](https://github.com/dipto-thakur/web-dev-from-zero) - Practice lessons for HTML,CSS,JS with implementation.
-
+- [College-Assignments](https://github.com/dipto-thakur/College-Assignments) — semester-wise academic assignments, lab work, and mini projects; structured coursework archive.
+- [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) — UI component libraries, animation tools, icon sets, 3D/WebGL libraries, color palettes, design inspiration.
+- [web-dev-from-zero](https://github.com/dipto-thakur/web-dev-from-zero) — practice lessons for HTML, CSS, JS with implementation.
 
 ## GitHub Analytics
 
@@ -86,9 +79,7 @@ More projects → <a href="https://github.com/dipto-thakur?tab=repositories">git
 
 **Geo Is No Longer Optional: What Google Trends Taught Me About the Future of Search**
 <br/>
-Medium · <a href="https://medium.com/@dkt.officials">medium.com/@dkt.officials</a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
+Medium · [@dkt.officials](https://medium.com/@dkt.officials)
 
 <div align="center">
 
