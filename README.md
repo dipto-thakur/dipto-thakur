@@ -24,8 +24,6 @@ I build production web apps end to end, architecture, UI, and everything between
 <img src="https://img.shields.io/badge/TypeScript-18181B?style=flat-square&logo=typescript&logoColor=3178C6"/>
 <img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css3&logoColor=1572B6"/>
 <img src="https://img.shields.io/badge/Figma-18181B?style=flat-square&logo=figma&logoColor=F24E1E"/>
 <img src="https://img.shields.io/badge/Framer-18181B?style=flat-square&logo=framer&logoColor=0055FF"/>
 <br/>
@@ -60,7 +58,7 @@ More projects → [dipto-thakur/repositories](https://github.com/dipto-thakur?ta
 ## Resources
 
 - [College-Assignments](https://github.com/dipto-thakur/College-Assignments) — semester-wise academic assignments, lab work, and mini projects; structured coursework archive.
-- [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) — UI component libraries, animation tools, icon sets, 3D/WebGL libraries, color palettes, design inspiration.
+- [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) — UI component libraries, animation tools, icon, 3D/WebGL libraries, design inspiration.
 - [web-dev-from-zero](https://github.com/dipto-thakur/web-dev-from-zero) — practice lessons for HTML, CSS, JS with implementation.
 
 ## GitHub Analytics
