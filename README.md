@@ -57,74 +57,24 @@ I favor minimal, editorial interfaces over dashboard defaults, and I care about 
 
 ## Selected Projects
 
-<details open>
-<summary><strong>Personal Portfolio — PixelCanvas Engine</strong></summary>
-<br/>
-
-| Area | Details |
-|---|---|
-| Purpose | Editorial personal site with a canvas-based visual identity |
-| Stack | Next.js · TypeScript · Tailwind CSS |
-| Highlights | Generator-based `PixelCanvas` rendering system driven by live GitHub contribution heatmap data; isomorphic data layer shared between server and client |
-| Challenges | Resolved a server/client data contract mismatch by unifying fetch logic into a single isomorphic module |
-| Live Demo | diptothakur.dev |
-
-</details>
-
-<details>
-<summary><strong>ForgeCV — AI CV Builder</strong></summary>
-<br/>
-
-| Area | Details |
-|---|---|
-| Purpose | CV builder with AI-assisted content generation and job-description matching |
-| Stack | Next.js · Supabase · Zustand · Puppeteer |
-| Highlights | Multi-model AI routing via OpenRouter with fallback chains; PDF export pipeline; diff viewer for AI-suggested edits |
-| Live Demo | forgecv.app |
-
-</details>
-
-<details>
-<summary><strong>Habit Impact Tracker</strong></summary>
-<br/>
-
-| Area | Details |
-|---|---|
-| Purpose | Addiction/habit recovery tracker with AI-generated insights |
-| Stack | NestJS · Handlebars · Tailwind · Chart.js · OpenRouter |
-| Highlights | 16 habit types, cached AI insights, dark/light theming, vertical recovery timeline UI |
-
-</details>
-
-<details>
-<summary><strong>QR Ordering App — Kolkata Café</strong></summary>
-<br/>
-
-| Area | Details |
-|---|---|
-| Purpose | QR-based table ordering system for a café client |
-| Stack | Next.js · localStorage cart |
-| Highlights | WhatsApp order dispatch, zero-backend order handoff |
-
-</details>
-
-<details>
-<summary><strong>The Calcutta Fitness Studio</strong></summary>
-<br/>
-
-| Area | Details |
-|---|---|
-| Purpose | Marketing site for a fitness studio client |
-| Stack | Next.js · Framer Motion · Swiper.js |
-| Highlights | Dark aesthetic with red accent, motion-driven section transitions |
-
-</details>
+- **Portfolio** | [Live](https://diptothakur.vercel.app/)
+- **noirnoteAI** | [Repo](https://github.com/dipto-thakur/NotaBackup) | [Live](https://noirnote.vercel.app/) — notepad with multi-model routing AI, formats for smart actions.
+- **GitPad** | [Repo](https://github.com/dipto-thakur/gitnote) | [Live](https://gitnote.vercel.app/) — browse GitHub repo file, edit it, commit. OAuth-based, portable editor.
+- **ForgeCV** | [Repo](https://github.com/dipto-thakur/CVForge) | [Live](https://forgecv-nine.vercel.app/) — AI CV builder, multi-model routing (OpenRouter), PDF export, JD matching.
+- **Habitrisk** | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | [Live](https://habitrisk.vercel.app/) — NestJS habit/recovery tracker, 16 habit types, AI insights, Quick share.
+- **ReviewbuzzAI** | [Repo](https://github.com/dipto-thakur/reviewlanding) | [Live](https://reviewbuzz.vercel.app/) — AI Review Automation for Businesses for SEO Optimization.
 
 <div align="center">
 
 More projects → <a href="https://github.com/dipto-thakur?tab=repositories">github.com/dipto-thakur</a>
 
 </div>
+
+## Resources
+
+- [College-Assignments](https://github.com/dipto-thakur/College-Assignments) — semester-wise academic assignments, lab work, and mini projects, serves as a structured archive of coursework.
+- [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) — UI component libraries, animation tools, icon sets, 3D/WebGL libraries, color palettes, and design inspiration.
+- [web-dev-from-zero](https://github.com/dipto-thakur/web-dev-from-zero) — Practice lessons for HTML,CSS,JS with implementation.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
 
