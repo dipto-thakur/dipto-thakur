@@ -16,8 +16,6 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
-
 ## About
 
 I build production web apps end to end, architecture, UI, and everything between which is fast, accessible, and thoughtfully engineered web applications with a focus on performance, usability, and long-term maintainability.
@@ -42,8 +40,6 @@ I build production web apps end to end, architecture, UI, and everything between
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
-
 ## Selected Projects
 
 - **Portfolio** | [Live](https://diptothakur.vercel.app/)
@@ -53,7 +49,7 @@ I build production web apps end to end, architecture, UI, and everything between
 - **Habitrisk** | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | [Live](https://habitrisk.vercel.app/) : NestJS habit/recovery tracker, 16 habit types, AI insights, Quick share.
 - **ReviewbuzzAI** | [Repo](https://github.com/dipto-thakur/reviewlanding) | [Live](https://reviewbuzz.vercel.app/) : AI Review Automation for Businesses for SEO Optimization.
 
-<div align="center">
+<div align="left">
 
 More projects → <a href="https://github.com/dipto-thakur?tab=repositories">github.com/dipto-thakur</a>
 
@@ -65,7 +61,6 @@ More projects → <a href="https://github.com/dipto-thakur?tab=repositories">git
 - [Web_devlopment_resources](https://github.com/dipto-thakur/Web_devlopment_resources) - UI component libraries, animation tools, icon sets, 3D/WebGL libraries, color palettes, and design inspiration.
 - [web-dev-from-zero](https://github.com/dipto-thakur/web-dev-from-zero) - Practice lessons for HTML,CSS,JS with implementation.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
 
 ## GitHub Analytics
 
@@ -86,8 +81,6 @@ More projects → <a href="https://github.com/dipto-thakur?tab=repositories">git
 <img src="https://raw.githubusercontent.com/dipto-thakur/dipto-thakur/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181b,100:27272a&height=3&section=header" width="100%"/>
 
 ## Writing
 
