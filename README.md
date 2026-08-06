@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:27272a&height=200&section=header&text=Dipto%20Thakur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=58&descSize=18" width="100%"/>
 
-<a href="https://diptothakur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/diptothakur"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://medium.com/@dkt.officials"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
-<a href="https://x.com/dipto_thakur"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="mailto:dkt.officials@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://diptothakur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/diptothakur"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://medium.com/@dkt.officials"><img src="https://img.shields.io/badge/Medium-18181B?style=flat-square&logo=medium&logoColor=white"/></a>
+<a href="https://x.com/dipto_thakur"><img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white"/></a>
+<a href="mailto:dkt.officials@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=D14836"/></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Next.js+%2B+TypeScript+%2B+React;Editorial%2C+motion-driven+web+apps;Full-stack+%7C+Frontend+%7C+Automation" alt="typing-svg"/>
 </div>
