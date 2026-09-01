@@ -51,6 +51,7 @@ I build production web apps end to end, architecture, UI, and everything between
 | [**Portfolio**](https://diptothakur.vercel.app/) | — | editorial personal site, canvas-based visual identity, motion-driven sections |
 | [**noirnoteAI**](https://noirnote.vercel.app/) | [Repo](https://github.com/dipto-thakur/NotaBackup) | AI notepad with multi-model routing, smart-format actions |
 | [**GitPad**](https://gitnote.vercel.app/) | [Repo](https://github.com/dipto-thakur/gitnote) | Browse a GitHub repo file, edit it, commit - OAuth-based, portable editor |
+| [**GitMark**](-) | [Repo](https://github.com/dipto-thakur/gitmark) | Chrome extension that saves every bookmark as a plain, portable collections inside your own repo |
 | [**Slotwise**](https://mentor-track.vercel.app/) | [Repo](https://github.com/dipto-thakur/) | A minimal, quick & smart tutoring/class session and income/slot tracker. |
 | [**ForgeCV**](https://forgecv-nine.vercel.app/) | [Repo](https://github.com/dipto-thakur/CVForge) | AI CV builder, multi-model routing (OpenRouter), PDF export, JD matching |
 | [**Habitrisk**](https://habitrisk.vercel.app/) | [Repo](https://github.com/dipto-thakur/Addiction-Impact-Tracker) | NestJS habit/recovery tracker, 16 habit types, AI insights, quick share |
