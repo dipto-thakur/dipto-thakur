@@ -1,14 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:27272a&height=200&section=header&text=Dipto%20Thakur&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20Automation%20Builder&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:18181b,100:27272a&height=200&section=header&text=Dipto%20Thakur&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20GenAI%20Engineer%20%7C%20Automation%20Builder&descAlignY=58&descSize=12" width="100%"/>
 
+<p>
 <a href="https://diptothakur.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-18181B?style=flat-square&logo=vercel&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/diptothakur"><img src="https://img.shields.io/badge/LinkedIn-18181B?style=flat-square&logo=linkedin&logoColor=0A66C2"/></a>
 <a href="https://medium.com/@dkt.officials"><img src="https://img.shields.io/badge/Medium-18181B?style=flat-square&logo=medium&logoColor=white"/></a>
 <a href="https://x.com/dipto_thakur"><img src="https://img.shields.io/badge/X-18181B?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="mailto:dkt.officials@gmail.com"><img src="https://img.shields.io/badge/Email-18181B?style=flat-square&logo=gmail&logoColor=D14836"/></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=A1A1AA&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Next.js+%2B+TypeScript+%2B+React;Editorial%2C+motion-driven+web+apps;Full-stack+%7C+Frontend+%7C+Automation" alt="typing-svg"/>
+</p>
+
 </div>
 
 ## About
@@ -44,11 +46,11 @@ I build production web apps end to end, architecture, UI, and everything between
 <img src="https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white"/>
 </div>
 
-## Selected Projects
+## Projects
 
 | Project | Repo | Description |
 |:--|:--|:--|
-| [**Portfolio**](https://diptothakur.vercel.app/) | — | editorial personal site, canvas-based visual identity, motion-driven sections |
+| [**Portfolio**](https://diptothakur.vercel.app/) | — | editorial personal portfolio site |
 | [**noirnoteAI**](https://noirnote.vercel.app/) | [Repo](https://github.com/dipto-thakur/NotaBackup) | AI notepad with multi-model routing, smart-format actions |
 | [**GitPad**](https://gitnote.vercel.app/) | [Repo](https://github.com/dipto-thakur/gitnote) | Browse a GitHub repo file, edit it, commit - OAuth-based, portable editor |
 | [**GitMark**](-) | [Repo](https://github.com/dipto-thakur/gitmark) | Chrome extension that saves every bookmark as a plain, portable collections inside your own repo |
@@ -65,7 +67,7 @@ More projects → [dipto-thakur/repositories](https://github.com/dipto-thakur?ta
 | Repo | Description |
 |:--|:--|
 | [**College-Assignments**](https://github.com/dipto-thakur/College-Assignments) | academic assignments, lab work, mini projects - semester-wise coursework archive |
-| [**Web_devlopment_resources**](https://github.com/dipto-thakur/Web_devlopment_resources) | curated UI libraries, animation tools, icon sets, 3D/WebGL resources, design inspiration |
+| [**myresources**](https://github.com/dipto-thakur/mybookmarks) | curated UI libraries, animation tools, icon sets, 3D/WebGL resources, design inspiration, tools |
 | [**web-dev-from-zero**](https://github.com/dipto-thakur/web-dev-from-zero) | beginner HTML/CSS/JS lessons with hands-on implementation |
 
 ## GitHub Analytics
