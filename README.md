@@ -46,6 +46,20 @@ I build production web apps end to end, architecture, UI, and everything between
 <img src="https://img.shields.io/badge/Vercel-18181B?style=flat-square&logo=vercel&logoColor=white"/>
 </div>
 
+## Working on
+
+<table>
+  <tr>
+    <td width="auto">
+      <img src="./public/sourccit-icon.png" width="48" alt="Sourccit" />
+    </td>
+    <td>
+      <strong><a href="https://sourccit.vercel.app">Sourccit</a></strong><br/>
+      A community-curated hub for discovering, sharing, and accessing quality learning resources.<br/>
+    </td>
+  </tr>
+</table>
+
 ## Projects
 
 | Project | Repo | Description |
