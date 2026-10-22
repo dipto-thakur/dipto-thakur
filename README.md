@@ -106,9 +106,11 @@ More projects → [dipto-thakur/repositories](https://github.com/dipto-thakur?ta
 
 ## Writing
 
-**Geo Is No Longer Optional: What Google Trends Taught Me About the Future of Search**
-<br/>
-Medium · [@dkt.officials](https://medium.com/@dkt.officials)
+**[Geo Is No Longer Optional: What Google Trends Taught Me About the Future of Search](https://medium.com/@dkt.officials/geo-is-no-longer-optional-what-google-trends-taught-me-about-the-future-of-search-c6f6abf3cac0)**
+
+**[The Stuff Your Syllabus Doesn’t Tell You About: Why I Built Sourccit](https://medium.com/@dkt.officials/the-stuff-your-syllabus-doesnt-tell-you-about-why-i-built-sourccit-539952516ca0)**
+
+**More writing:** [Medium · @dkt.officials](https://medium.com/@dkt.officials)
 
 <div align="center">
 
